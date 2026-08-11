@@ -18,7 +18,7 @@
       <div class="divBox">
         <div class="col-12">
           <label class="txtHead">Method : </label>
-          <label>Post</label>
+          <label>GET</label>
         </div>
         <div class="col-12">
           <label class="txtHead">Url : </label>
