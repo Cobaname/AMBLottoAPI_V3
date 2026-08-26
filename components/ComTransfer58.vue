@@ -110,7 +110,7 @@
                   </tr>
 
                   <tr>
-                    <td class="bRight">start_date</td>
+                    <td class="bRight">startDate</td>
                     <td class="bRight">string (datetime)</td>
                     <td>
                       Start date for fetching data, e.g.
@@ -118,7 +118,7 @@
                     </td>
                   </tr>
                   <tr>
-                    <td class="bRight">end_date</td>
+                    <td class="bRight">endDate</td>
                     <td class="bRight">string (datetime)</td>
                     <td>
                       End date for fetching data, e.g.
